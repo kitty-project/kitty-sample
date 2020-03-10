@@ -1,8 +1,8 @@
 package kitty.app;
 
-import kitty.Configuration;
-import kitty.HttpMethod;
-import kitty.Kitty;
+import com.julianjupiter.kitty.Configuration;
+import com.julianjupiter.kitty.HttpMethod;
+import com.julianjupiter.kitty.Kitty;
 
 import java.util.Map;
 import java.util.Set;
